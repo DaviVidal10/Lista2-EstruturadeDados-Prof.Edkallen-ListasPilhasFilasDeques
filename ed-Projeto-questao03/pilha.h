@@ -1,3 +1,10 @@
+/*
+Função: Vetor de Inteiros
+Autor: Carlos Eduardo
+Data: 17/06/2025
+observação:
+*/
+
 #ifndef PILHA_H
 #define PILHA_H
 

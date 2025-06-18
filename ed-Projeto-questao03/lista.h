@@ -1,7 +1,7 @@
 /*
 Função: Vetor de Inteiros
 Autor: Carlos Eduardo
-Data:14/06/2025
+Data: 14/06/2025
 observação:
 */
 

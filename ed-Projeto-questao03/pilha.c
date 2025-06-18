@@ -1,3 +1,10 @@
+/*
+Função: Vetor de Inteiros
+Autor: Carlos Eduardo
+Data: 17/06/2025
+observação: utilzado chatgpt para deixar a exibição mais organizada
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
